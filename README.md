@@ -32,6 +32,8 @@ The backend uses a Next.js API route to call the Gemini API.
 
 ```bash
 npm install
+npm run dev
+
 ## Screenshots
 
 ### 1. Home Page
