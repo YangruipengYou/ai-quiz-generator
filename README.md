@@ -39,13 +39,13 @@ The backend uses a **Next.js API route** to call the **Gemini API**.
 ## Screenshots
 
 ### 1. Home Page
-![Home](./public/screenshot-home.png)
+![Home](./public/Screenshot-home.png)
 
 ### 2. Quiz Generated
-![Quiz](./public/screenshot-generate.png)
+![Quiz](./public/Screenshot-generate.png)
 
 ### 3. Show Answers
-![Answer](./public/screenshot-answer.png)
+![Answer](./public/Screenshot-answer.png)
 
 ---
 
